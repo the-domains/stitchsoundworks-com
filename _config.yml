@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5234042
+color:
+  saturation: 0.3545736
+  lightness: 0.1605646
+  brandStrength: 0.4468085
+  brandColors:
+    - '#201F20'
+    - '#CDCDCE'
+    - '#5D5B54'
+    - '#4031C8'
+    - '#2E2877'
+  rhythmicContrast: 0.1082511
+name: StitchSoundWorks.com
